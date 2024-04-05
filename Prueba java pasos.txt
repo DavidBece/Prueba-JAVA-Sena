@@ -1,0 +1,1 @@
+Para hacer esta biblioteca use lo que es el editor de texto visual estudio code con las extensiones de java para poder programar en ella para hacer que corra solamente seria descargar las extensiones en visual estudio code y correrlo 
